@@ -1,6 +1,3 @@
 Git is distributed a version control system.
-hello world.
-git is a free software at GPL.
-aaa
-bbb
-ccc
+git is a free software.
+这只是一个练习git的仓库
